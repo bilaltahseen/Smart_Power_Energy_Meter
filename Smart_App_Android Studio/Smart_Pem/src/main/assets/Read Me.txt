@@ -1,0 +1,1 @@
+paster your own google-services-desktop.json file here,generated from firebase.
